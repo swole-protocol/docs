@@ -23,4 +23,4 @@ On the other-side of the coin, their does currently exist a open source project 
 - **Polygon** -> Deployed NFT smart contract to Polugon mainnet
 - **Graph** -> created subgraph to index minted workouts (deployed to mainnet)
 - **IPFS/Filecoin** -> Using IPFS (via Pinata) to store the workout metadata for the NFT
-- **Coinbase Inc** -> Using RainbowKit we added the ability for the user to sign in with their coinbase wallet to be able to mint their workout
+- **Coinbase Inc** -> Using web3modal we added the ability for the user to sign in with their coinbase wallet to be able to mint their workout
