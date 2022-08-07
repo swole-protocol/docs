@@ -23,8 +23,8 @@
 - What are the problems today with trainers working for a traditional gym? (Dylan)
   - How much of a cut do gyms take out of a trainers income?
   - Are trainers FTE or PTE?
-- Are there any fitness daos out there today? If so what are they doing and what are the gaps?
-- What types of web3 fitness tools/applications exist today and what do they look to solve?
+- Are there any fitness daos out there today? If so what are they doing and what are the gaps? (Narb)
+- What types of web3 fitness tools/applications exist today and what do they look to solve? (Michael)
 
 ## How we get there
 - TBD
